@@ -1,4 +1,4 @@
-•👋 Hi, I’m  [@lino](https://github.com/linoshuke) a Junior Software Developer <br>
+•👋 Hi, I’m  [@Dede Ichsan R](https://github.com/linoshuke) a Junior Software Developer <br>
 •👀 I’m interested in the software developer <br>
 • 🚀 I’m currently learning programming language Javascript, PHP, Flutter (Dart), Java for development website appliction and mobile application and any more language relating to website  application and mobile application development <br>
 • 🔥 I’m looking to collaborate on with you in the world of technology, one of which is developing software based on website applications and mobile applications <br>
